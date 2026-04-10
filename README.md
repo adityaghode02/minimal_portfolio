@@ -1,5 +1,4 @@
 # Portfolio Project
-![Screenshot](./src/assets/home_Screen.png)
 This is a responsive portfolio site created with ReactJS and plain CSS that implements Swiper for sliding components and EmailJS for contact services.
 
 ### Project Features:
@@ -26,7 +25,6 @@ The slider component of the testimonial section is imported from [SwiperJS](http
 
 The form modal of the contact section is setup using SDK and an email template from [EmailJS](https://www.emailjs.com/docs/examples/reactjs/).
 
-![Screenshot](./src/assets/emailjs.png)
 
 
 ## Dark Mode Implemented 
